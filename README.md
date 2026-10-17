@@ -12,7 +12,7 @@ I keep networks, hypervisors and monitoring running — and automate the boring 
 | Monitoring & Remote Management | Zabbix, PRTG, NinjaOne |
 | Backup | Veeam |
 | Containers | Docker, Docker Compose |
-| Deployment | OSDCloud, PowerShell, Intune |
+| Deployment | OSDCloud, PowerShell |
 | Telephony | 3CX |
 
 ### 📜 Certifications
