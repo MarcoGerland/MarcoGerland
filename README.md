@@ -7,9 +7,10 @@ I keep networks, hypervisors and monitoring running — and automate the boring 
 
 | Area | Tools |
 |---|---|
-| Networking & Security | FortiGate, OPNsense |
-| Virtualization | Proxmox VE, Hyper-V |
-| Monitoring | Zabbix, PRTG |
+| Networking & Security | FortiGate, OPNsense, UniFi |
+| Virtualization | Proxmox VE, Hyper-V, VMware |
+| Monitoring & Remote Management | Zabbix, PRTG, NinjaOne |
+| Backup | Veeam |
 | Containers | Docker, Docker Compose |
 | Deployment | OSDCloud, PowerShell, Intune |
 | Telephony | 3CX |
@@ -19,6 +20,9 @@ I keep networks, hypervisors and monitoring running — and automate the boring 
 - Zabbix Certified Specialist
 - 3CX Advanced Certified Engineer
 - ITIL Foundation
+- NinjaOne Certified Technician (2026)
+- ESET Remote Administrator – Advanced Training
+- Anthropic: Claude Code 101, AI Fluency
 - Various cybersecurity & networking courses (Hasso Plattner Institute)
 
 ### 🔭 Currently
