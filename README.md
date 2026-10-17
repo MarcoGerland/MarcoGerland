@@ -26,3 +26,7 @@ I keep networks, hypervisors and monitoring running — and automate the boring 
 - Building a Proxmox homelab with self-hosted services
 - Exploring AI agents and MCP servers for infrastructure automation
 - Publishing cleaned-up scripts and templates from day-to-day admin work
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/marco-gerland/)
